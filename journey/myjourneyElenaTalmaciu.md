@@ -1,0 +1,2 @@
+Buna!
+Numele meu este Elena, am absolvit facultatea de Matematica-Informatica si urmez in prezent un curs de Full Stack Development la GoIT. Prin acest curs, am dobandit competente in tehnologii precum HTML, CSS, JavaScript, React si Node.js, si am realizat proiecte practice care m-au ajutat sa aplic cunostintele teoretice in situatii reale. Sunt pasionata de dezvoltarea web si imi doresc sa gasesc un job in acest domeniu, unde să pot contribui la proiecte .
